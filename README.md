@@ -1,0 +1,2 @@
+ - [The content of `/var/sadm/install/contents`](contents) 
+ - [The output of `pkginfo -l`](pkginfo-l)
